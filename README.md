@@ -1,5 +1,5 @@
 # ROST
-ROST is a concurrent learned range index.
+ROST is a concurrent learned skip-list
 
 ## Prerequisites
 This project uses CMake (3.15+) for building and testing.
