@@ -22,6 +22,6 @@ The figures below are the result of the 32 thread test of ROST and some counterp
 <center class="half">
 <img src="./read-only.png" width=250/>
  &emsp; &emsp;&emsp;Throughput on read-only workload
- <img src="./write-only.png"width=100/>
+ <img src="./write-only.png"width=250/>
  &emsp; &emsp;&emsp;Throughput on write-only workload
 </center>
