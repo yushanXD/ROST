@@ -20,6 +20,6 @@ You can set the variant 'DoTestBench' to 'True' and after building you can run '
 The figures below are the result of the 32 thread test of ROST and some counterparts on the data set YCSB, Wiki and Amzn with  64M 8Bytes integer.
 ![Image Title](./legend.png)
 <center class="half">
-<img src="./read-only.png" width=250/><img src="./write-only.png"width=250/>
+<img src="./read-only.png" width=100/><img src="./write-only.png"width=100/>
 </center>
 &emsp; &emsp;&emsp;Throughput on read-only workload&emsp;&emsp;Throughput on write-only workload
